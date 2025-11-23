@@ -75,10 +75,10 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
     
-    labels[0] : {"texts" : ["중국식 냉면은 맜있어"],"images" : ["https://www.kfoodtimes.com/news/photo/202106/16159_27527_3716.png"]},
-    labels[1] : {"texts" : ["짜장면은 맛있어"],"images" : ["https://i.namu.wiki/i/j2AxLP9AtrcJebh4DVfGxowfXwI3a95dG_YZb_Ktczc6Ca7ACyd_NJL3YHQMw8SABGTQiJDwSpySOSSBLZVEZw.webp"]},
-    labels[2] : {"texts" : ["짬뽕은 맜있어"],"images" : ["https://www.newiki.net/w/images/thumb/1/11/Jjampong.jpg/450px-Jjampong.jpg"]},
-    labels[3] : {"texts" : ["탕수육은 맜있어"],"images" : ["https://i.namu.wiki/i/NSZu9w4DRwEPOCgPSzvs4sAZlxfMBoxZLCZQgM_O4wRH8jN0guRfBiLURu-Tno5p-Q2aw5e5gy9gLJsnYKlq8Q.webp"]},
+    labels[0] : {"texts" : ["중국식 냉면은 맜있어"],"images" : ["https://www.kfoodtimes.com/news/photo/202106/16159_27527_3716.png"],"videos": ["https://www.youtube.com/watch?v=QT0kzv4CwPo","https://www.youtube.com/shorts/HJy4dGxaBFM"]},
+    labels[1] : {"texts" : ["짜장면은 맛있어"],"images" : ["https://i.namu.wiki/i/j2AxLP9AtrcJebh4DVfGxowfXwI3a95dG_YZb_Ktczc6Ca7ACyd_NJL3YHQMw8SABGTQiJDwSpySOSSBLZVEZw.webp"],"videos": ["https://www.youtube.com/shorts/PE8siEV1QYg","https://www.youtube.com/watch?v=YMbnuHN_TfE"]},
+    labels[2] : {"texts" : ["짬뽕은 맜있어"],"images" : ["https://www.newiki.net/w/images/thumb/1/11/Jjampong.jpg/450px-Jjampong.jpg"],"videos": ["https://www.youtube.com/shorts/2hiIdzh8ZG4","https://www.youtube.com/shorts/eehn6XDrqnc"]},
+    labels[3] : {"texts" : ["탕수육은 맜있어"],"images" : ["https://i.namu.wiki/i/NSZu9w4DRwEPOCgPSzvs4sAZlxfMBoxZLCZQgM_O4wRH8jN0guRfBiLURu-Tno5p-Q2aw5e5gy9gLJsnYKlq8Q.webp"],"videos": ["https://www.youtube.com/watch?v=e9jHy8AJ4yc","https://www.youtube.com/shorts/7DjJfMU3rM8"]},
 }
     
 # ======================
